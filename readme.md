@@ -15,4 +15,4 @@
   ##
  
 
-uses: Platane/snk/svg-only@v3
+![snake animation](https://github.com/Moises-Drum/blob/output/github-contribution-grid-snake2.svg)
