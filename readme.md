@@ -15,4 +15,4 @@
   ##
  
 
-![snake animation](https://github.com/Moises-Drum/blob/output/github-contribution-grid-snake2.svg)
+![snake animation](https://github.com/Moises-Drum/Moises-Drum/blob/output/github-contribution-grid-snake2.svg)
