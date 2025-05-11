@@ -1,7 +1,7 @@
 <img src="clean.gif" height="300px" width="100%">
-<p align="center"> Olá. Aceita uma xicará de café? ☕ </p>
-<p align="center"> Meu nome é Moisés, estou cursando Análise e Desenvolvimento de sistemas.💻 </p>
-<p align="center"> Utilizarei esse perfil no Github, inicialmente, como um beckup de trabalhos e testes de projetos. </p> 
+<p align="center"> Olá! Seja bem-vindo(a) ao meu perfil. ☕ </p>
+<p align="center"> Me chamo Moisés, sou desenvolvedor a mais de 1 ano atuando como Desenvolvedor Fullstack 💻 </p>
+<p align="center"> Este repositório serve como base para armazenamento de projetos, estudos contínuos e experimentações com novas tecnologias. </p>
 
 ## 
 <div align="center">
@@ -10,9 +10,3 @@
   <img height="180em" width="400px" src="https://github-readme-stats.vercel.app/api?username=Moises-Drum&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="206em" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moises-Drum&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
-  
-  
-  ##
- 
-
-![snake animation](https://github.com/Moises-Drum/Moises-Drum/blob/output/github-contribution-grid-snake.svg)
